@@ -9,6 +9,6 @@ Hypertext Markup Language (HTML)
   2. Bold
   3. Italic
   4. Emphasie--
-5. Unordered List "<ul> <li></li> </ul>"
-6. Ordered List   "<ol> <li></li> </ol>"
+5. Unordered List <p><ul> <li></li> </ul></p>
+6. Ordered List   <p><ol> <li></li> </ol></p>
 7. Table <table></table>
